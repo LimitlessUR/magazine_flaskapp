@@ -1,4 +1,6 @@
+# Favorite Magazine Tracker 
 
+Features
 
 For production user will need to create their own:
 
