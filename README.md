@@ -1,6 +1,8 @@
 # Favorite Magazine Tracker 
 
-Features
+## Features
+
+User can Edit account inforamtion, Add magazine, show magazine cards 
 
 For production user will need to create their own:
 
