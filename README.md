@@ -4,7 +4,7 @@
 
 User can Edit account inforamtion, Add magazine, show magazine cards 
 
-For production user will need to create their own:
+`For production user will need to create their own:`
 
 DEBUG_STATUS,
 
