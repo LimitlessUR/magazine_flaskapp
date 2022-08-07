@@ -12,3 +12,5 @@ DEBUG_STATUS,
 SECRET_KEY,
 DB_USER,
 DB_PASSWORD,
+
+Utilized MySQL Workbench to design DB Schemas
