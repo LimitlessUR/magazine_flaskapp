@@ -15,4 +15,4 @@ DB_PASSWORD,
 
 `Utilized MySQL Workbench to design DB Schemas`
 
-Link:https://www.mysql.com/products/workbench/
+Link: https://www.mysql.com/products/workbench/
